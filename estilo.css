@@ -1,0 +1,29 @@
+body{
+    background: rgb(70,142,236);
+    font: normal 15pt Arial;
+}
+
+header{
+    color: white;
+    text-align: center; /* centralizando em vista do body*/
+}
+
+section {
+    background: white;
+    border-radius: 10px;  /* borda arredondada em css*/
+    padding: 15px; /* espaçamento interno */
+    width: 500px; /*altura */
+    margin: auto; /* centralizou o item */
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363); /* sombra no elemento sendo deslocamento lateral, deslocamento vertical, espalhamento e cor!*/
+}
+
+select {
+    width: 150px;
+}
+
+footer{
+    color: white; 
+    text-align: center; /* centralizando*/
+    font-style: italic;
+
+}
